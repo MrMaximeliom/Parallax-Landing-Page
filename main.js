@@ -100,6 +100,7 @@ async function handleFormSubmit(e){
 contactForm.addEventListener('submit',handleFormSubmit);
 
 
+
 // FADE UP OBSERVER
 function fadeUpObserverCallback(elsToWatch){
 elsToWatch.forEach((el)=>{
